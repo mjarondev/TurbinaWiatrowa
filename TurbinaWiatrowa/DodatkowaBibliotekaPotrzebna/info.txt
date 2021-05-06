@@ -1,5 +1,0 @@
-
-
-pyassimp
-
-mozna ja od nowa zrobic za pomoca cmake i zbudowac na kompie
