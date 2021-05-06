@@ -10,7 +10,7 @@ Aplikacja symulująca zachowanie turbiny wiatrowej.
 - [Uruchamianie programu](#uruchamianie-programu)
 - [Korzystanie z aplikacji](#korzystanie-z-aplikacji)
 - [Źródła](#źródła)
-- [Dodatkowe informacje](#Dodatkowe informacje)
+- [Dodatkowe informacje](#Dodatkowe-informacje)
 - [Status projektu](#status-projektu)
 
 ## Informacje ogólne
