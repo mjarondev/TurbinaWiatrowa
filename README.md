@@ -59,7 +59,8 @@ Użytkownik może sterować prędkością i kierunkiem wiania wiatru. Model reag
 
 ## Źródła
 W pisaniu aplikacji pomogły mi filmy na kanale [AtiByte](https://www.youtube.com/channel/UC4L3JyeL7TXQM1f3yD6iVQQ).  
-Podczas zmieniania kodu C na Python wzorowałem się [tym](https://realpython.com/build-python-c-extension-module/) poradnikiem.
+Podczas zmieniania kodu C na Python wzorowałem się [tym](https://realpython.com/build-python-c-extension-module/) poradnikiem.  
+Pliki .obj w katalogu Program/wiatrak, czyli model 3d wiatraka oraz strzałki oraz część designu gui zrobił mój [kolega](https://github.com/MK-coding).
 
 ## Dodatkowe informacje
 Fizyczny model wiatraka znajdujący się w folderze ModelWiatraka został stworzony w oprogramowaniu simulink, przekodowany na język C po czym przepisany na bibliotekę Pythona. W folderze CtoPython znajduje się plik main za pomocą którego zbudowałem pliki z folderu ModelWiatraka. Wrzucam tylko ten plik, ponieważ reszta potrzebna do budowy tych plików to pliki wygenerowane z Simulink Coder lub dodatkowe biblioteki potrzebne do prawidłowego zbudowania modelu.
