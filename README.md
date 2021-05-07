@@ -12,6 +12,7 @@ Aplikacja symulująca zachowanie turbiny wiatrowej.
 - [Źródła](#źródła)
 - [Dodatkowe informacje](#Dodatkowe-informacje)
 - [Status projektu](#status-projektu)
+- [Screeny projektu](#screeny-projektu)
 
 ## Informacje ogólne
 Aplikacja za pomocą modelu 3d oraz różnych wskaźników pokazuje zachowanie i sterowanie turbiny wiatrowej w zależności od kierunku wiania oraz prędkości wiatru.
@@ -70,4 +71,6 @@ Do utworzenia samodzielnego pliku za pomocą auto-py-to-exe należy dodać do --
 ## Status projektu
 Zakończony
 
+## Screeny projektu
+![MainWindow](https://user-images.githubusercontent.com/82177599/117481913-f0b5c700-af63-11eb-9110-d57f51965682.png)
 
